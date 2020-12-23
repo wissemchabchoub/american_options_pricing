@@ -19,7 +19,9 @@ In this project, we are implementing two pricing frameworks for American options
 ![Alt text](img/choix.PNG?raw=true)
 
 2. Bjerksund & Stensland Method
- 
+
+![Alt text](img/formulation.PNG?raw=true)
+
 ## 🎥 Repository Structure  <a name = "repo-struct"></a>
 
 
