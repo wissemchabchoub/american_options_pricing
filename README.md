@@ -16,7 +16,7 @@
 In this project, we are implementing two pricing frameworks for American options based :
 1. Longstaff Schwartz Method
 
-![Alt text](img/choix.png?raw=true)
+![Alt text](img/choix.PNG?raw=true)
 
 2. Bjerksund & Stensland Method
  
