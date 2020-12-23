@@ -17,13 +17,13 @@ In this project, we are implementing two pricing frameworks for American options
 1. Longstaff Schwartz Method
 
 <p align="center">
-  <img src="choix.PNG?raw=true" />
+  <img src="img/choix.PNG?raw=true" />
 </p>
 
 2. Bjerksund & Stensland Method
 
 <p align="center">
-  <img src="formulation.PNG?raw=true" />
+  <img src="img/formulation.PNG?raw=true" />
 </p>
 
 ## 🎥 Repository Structure  <a name = "repo-struct"></a>
