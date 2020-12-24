@@ -13,7 +13,7 @@
 
 ## 🧐 About <a name = "about"></a>
 
-In this project, we are implementing two pricing frameworks for American options based :
+In this project, we are implementing two pricing frameworks for American options based on:
 1. Longstaff Schwartz Method
 
 <p align="center">
