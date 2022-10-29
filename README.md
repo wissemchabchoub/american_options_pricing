@@ -13,7 +13,7 @@
 
 ## 🧐 About <a name = "about"></a>
 
-In this project, we are implementing two pricing frameworks for American options based on:
+In this project, we implement two pricing frameworks for American options based on:
 1. Longstaff Schwartz Method
 
 <p align="center">
@@ -29,5 +29,5 @@ In this project, we are implementing two pricing frameworks for American options
 ## 🎥 Repository Structure  <a name = "repo-struct"></a>
 
 
-1. `Notebook.ipynb`: A Jupyter Notebook for the two frameworks and the corresponding tests
+1. `american_options_pricing.ipynb`: A Jupyter Notebook for the two frameworks and the corresponding tests.
 2. `requirements.txt`: Requirements files
