@@ -31,3 +31,4 @@ In this project, we implement two pricing frameworks for American options based 
 
 1. `american_options_pricing.ipynb`: A Jupyter Notebook for the two frameworks and the corresponding tests.
 2. `requirements.txt`: Requirements files
+3. `src` : Source code folder
